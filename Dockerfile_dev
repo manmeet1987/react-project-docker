@@ -16,3 +16,4 @@ COPY ./ ./
 
 # Startup Command
 CMD ["npm", "run", "start"]
+#ENTRYPOINT ["npm", "run", "start"]
